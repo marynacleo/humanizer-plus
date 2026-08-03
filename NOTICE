@@ -1,0 +1,13 @@
+humanizer-plus
+Copyright (c) 2026 Maryna Skachek (MariCleo Studio)
+
+This product includes work derived from humanizer by blader:
+https://github.com/blader/humanizer (version 2.9.1, MIT License).
+The upstream skill is redistributed unchanged in
+reference/upstream-humanizer-2.9.1.md, and its licence text is kept in
+reference/LICENSE-blader-humanizer.txt.
+
+The pattern catalogue both projects follow comes from
+Wikipedia:Signs of AI writing, maintained by WikiProject AI Cleanup,
+available under CC BY-SA 4.0:
+https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
