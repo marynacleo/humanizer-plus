@@ -55,7 +55,7 @@ deliberate, and a person still signs it off.
 python scripts/ai_tells.py <file or folder> [--lang en|fr|ru|auto] [--all] [--internal] [--json]
 ```
 
-```
+```text
 == article.md [en] 940 words: review
    hard: 3  soft: 11  triplets: 4  density: 21.3 per 1000 words
    ! article.md:12 Title Case heading: '## Strategic Negotiations And Global Partnerships'
@@ -92,7 +92,7 @@ live site by itself.
 
 ## Structure
 
-```
+```text
 humanizer-plus/
 ├── SKILL.md                              # the skill (read first)
 ├── scripts/
@@ -107,9 +107,8 @@ humanizer-plus/
 
 Created by **Maryna Skachek** (MariCleo Studio), 2026, on top of
 [blader/humanizer](https://github.com/blader/humanizer) v2.9.1 by blader, used
-and redistributed under the MIT License (see
-`reference/LICENSE-blader-humanizer.txt`). This work is released under the MIT
-License as well (see `LICENSE`).
+and redistributed under the MIT License. This work is MIT too: see `LICENSE`
+for the terms and `NOTICE` for what came from where.
 
 The pattern catalogue itself comes from
 [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing),
